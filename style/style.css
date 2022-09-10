@@ -136,7 +136,7 @@ body {
   filter: grayscale(50%);
   transition: all 3s;
 }
-img:hover {
+.image img:hover {
   filter: grayscale(0%);
   opacity: 0;
 }
@@ -169,7 +169,7 @@ img:hover {
   grid-template-columns: repeat(2, auto);
   justify-content: center;
   font-family: var(--font-family);
-  padding: 7rem 6rem;
+  padding: 7rem 9rem;
 }
 .main-title {
   display: flex;
