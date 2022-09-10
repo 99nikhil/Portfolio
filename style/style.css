@@ -100,7 +100,7 @@ body {
   background-color: var(--color-secondary);
 }
 .control:hover {
-  transform: translateY(-10px);
+  /* transform: translateY(-10px); */
 }
 .header-content {
   display: grid;
