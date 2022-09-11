@@ -647,6 +647,7 @@ textarea {
     margin: 0;
     font-size: 1.5rem;
   }
+
   .name p {
     margin: 0;
   }
@@ -660,6 +661,21 @@ textarea {
   .about-item p {
     font-size: x-small;
   }
+  .timeline-item .timeline-logo {
+    margin-left: 10px;
+  }
+  .timeline-title h4,
+  .timeline-title span {
+    font-size: xx-small;
+  }
+  .timeline-logo {
+    height: 30px;
+    width: 30px;
+  }
+  .timeline-title {
+    padding: 0;
+  }
+
   .controls .control {
     margin: 1rem 0.3rem;
   }
