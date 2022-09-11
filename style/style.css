@@ -667,7 +667,7 @@ textarea {
   .about-item {
     padding: 30px 0;
   }
-   {
+  .about-item p {
     font-size: x-small;
   }
   .timeline-item .timeline-logo {
@@ -713,7 +713,8 @@ textarea {
     font-size: 1rem;
   }
   .input-control input,
-  textarea {
+  .input-control textarea {
     margin: 0.5rem 0;
+    border-radius: 10px;
   }
 }
