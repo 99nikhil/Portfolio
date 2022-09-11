@@ -632,6 +632,12 @@ textarea {
     transform: translateX(-50%);
     background-color: var(--color-bgOpacity);
   }
+  .header-content .left-header .image {
+    width: 85vw;
+  }
+  .header-content .left-header .image img {
+    border-radius: 10px;
+  }
   #home {
     margin: 0;
     padding: 0 2rem;
