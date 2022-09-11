@@ -673,9 +673,13 @@ textarea {
   .timeline-item .timeline-logo {
     margin-left: 10px;
   }
+  .right-header {
+    justify-content: space-evenly;
+  }
   .timeline-title h4,
-  .timeline-title span {
-    font-size: xx-small;
+  .timeline-title span,
+  .right-header p {
+    font-size: x-small;
   }
   .timeline-logo {
     height: 30px;
