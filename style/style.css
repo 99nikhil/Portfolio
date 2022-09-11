@@ -667,7 +667,7 @@ textarea {
   .about-item {
     padding: 30px 0;
   }
-  .about-item p {
+   {
     font-size: x-small;
   }
   .timeline-item .timeline-logo {
@@ -678,8 +678,14 @@ textarea {
   }
   .timeline-title h4,
   .timeline-title span,
-  .right-header p {
-    font-size: x-small;
+  .about-item p,
+  .right-header p,
+  .contact-left-title p {
+    font-size: 0.7rem;
+  }
+
+  .contact-content .contact-item .icon {
+    font-size: 1rem;
   }
   .timeline-logo {
     height: 30px;
